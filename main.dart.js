@@ -106985,7 +106985,7 @@ s=d.ok.Q
 if(s==null)a3=f
 else{a3=c.rx
 a3=s.aQ(a3==null?c.k3:a3)}s=t.jm
-return A.pt(a0,A.Ea(A.b([B.Vh,a2,new A.aB(B.K8,A.at("No email is sent on a day when you have nothing open. It can arrive up to about 20 minutes after the hour.",f,f,f,a3,f,f,f),f),B.e_,B.Ve,A.vP(new A.aB(B.qs,A.aPr(new A.arj(e),B.On,A.c8([e.as],s),!1,s),f),f,f)],a1),B.K0,f,B.E,!1),f)}}
+return A.pt(a0,A.Ea(A.b([B.Vh,a2,new A.aB(B.K8,A.at("No email is sent on a day when you have nothing open. It usually arrives within a few minutes of the hour.",f,f,f,a3,f,f,f),f),B.e_,B.Ve,A.vP(new A.aB(B.qs,A.aPr(new A.arj(e),B.On,A.c8([e.as],s),!1,s),f),f,f)],a1),B.K0,f,B.E,!1),f)}}
 A.ark.prototype={
 $1(a){return this.a.zi(a)},
 $S:710}
